@@ -1,0 +1,1 @@
+console.log("Hospital Appointment System loaded successfully.");
